@@ -1,4 +1,4 @@
-# Installation for Mac OS (Intel / M1 / M2)
+# Installation for Mac OS (Intel / M1 / M2) ;
 
 ## Basics
 
